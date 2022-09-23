@@ -26,25 +26,26 @@ Mbaresat e foljes në kohën e tashme:
 
 ---
 
-| komm/en | vijë |
+| komm/<mark>en</mark> | vijë |
 | --- | --- |
 | Singular | Plural |
-| Ich komme | wir kommen |
-| du kommst | ihr kommt |
-| (Sie kommen) |     |
-| er, sie, es kommt | (Sie) kommen |
+| Ich komm<mark>e</mark> | wir komm<mark>en</mark> |
+| du kommst | ihr komm<mark>t</mark> |
+| (Sie komm<mark>en</mark>) |     |
+| er, sie, es komm<mark>t</mark> | (Sie) komm<mark>en</mark> |
 
 ---
 
-Whoher kommen Sie? - Nga vini Ju ?  
-Woher kommst du ? - Nga vjen ti ?  
-Ich komme aus Kosova. - Unë vijë nga Kosova.  
-Was sprechen sie ? - çka flisni Ju ?  
-Was sprichst du ? çka flet ti ?  
-Ich spreche Albanisch und ein bisschen Deutsch.  
+Whoher komm<mark>en</mark> Sie? - Nga vini Ju ?  
+Woher komm<mark>st</mark> du ? - Nga vjen ti ?  
+Ich komm<mark>e</mark> aus Kosova. - Unë vijë nga Kosova.  
+Was sprech<mark>en</mark> sie ? - çka flisni Ju ?  
+Was sprich<mark>st</mark> du ? çka flet ti ?  
+Ich sprech<mark>e</mark> Albanisch und ein bisschen Deutsch.  
 (Unë flas shqip dhe pak` gjermanisht)
 
 ---
+- Dallimi i shkronjave të gjermanishtes dhe si shqiptohen në shqip.
 
 | DEUTSCH | SHQIP |
 | --- | --- |
