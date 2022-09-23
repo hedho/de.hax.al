@@ -18,7 +18,7 @@
 
 - Wie heißen Sie ? - Si quheni ju ?
 - Wie heißt du ? - Si quhesh ?  
-  Përgjigjia për të dyja pyetjet është e njejtë! { Ich heiße Arianit Kukaj}
+  Përgjigjia për të dyja pyetjet është e njejtë! { Ich heiße Arianit Kukaj }
 
 ---
 
@@ -36,11 +36,11 @@ Pytja e dytë është për shprehje të mënyrës Jo Formale apo Jo Zyrtare.
 - Danke - Falemenderit
 - Bitte - Të lutëm
 - Herr - Zotëri (Toni Berisha - Herr BERISHA)
-- Frau - Zonjë (Tina Berisha - Herr BERISHA)
+- Frau - Zonjë (Tina Berisha - Frau BERISHA)
 
 ---
 
-- Wer isnt das ? - Kush është ky/kjo?
+- Wer ist das ? - Kush është ky/kjo?
 - Das ist Toni. - Ky është Toni.
 - Das ist Tina. - Kjo është Tina.
 
