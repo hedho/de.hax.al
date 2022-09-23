@@ -1,4 +1,4 @@
-# Wilkommen 
+# Willkommen 
 
 Diese Daten werden von Ihrer Hochschule bereitgestellt. 
 In meinem Namen möchte ich, dass jeder so viel Wissen wie möglich daraus holt, PS A.K.
