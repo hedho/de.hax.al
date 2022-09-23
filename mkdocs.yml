@@ -1,0 +1,12 @@
+site_name: Willkommen
+repo_url: https://github.com/hedho/de.hax.al
+
+theme:
+    locale: de
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+extra:
+  generator: false
