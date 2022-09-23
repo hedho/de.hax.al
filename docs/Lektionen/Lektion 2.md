@@ -8,7 +8,7 @@
 | Singular - Nr. Njejës | Plural - Nr. Shumës |
 | --- | --- |
 | Ich - Unë | Wir - ne |
-| du -ti | ihr - ju |
+| du - ti | ihr - ju |
 | (Sie - Ju) |     |
 | er, sie, es | (er dhe sie) (Ai, Ajo) |
 | Sie | Ju  |
