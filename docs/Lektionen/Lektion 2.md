@@ -39,7 +39,7 @@ Mbaresat e foljes në kohën e tashme:
 
 ---
 
-Whoher komm<mark>en</mark> Sie? - Nga vini Ju ?  
+Woher komm<mark>en</mark> Sie? - Nga vini Ju ?  
 Woher komm<mark>st</mark> du ? - Nga vjen ti ?  
 Ich komm<mark>e</mark> aus Kosova. - Unë vijë nga Kosova.  
 Was sprech<mark>en</mark> sie ? - çka flisni Ju ?  

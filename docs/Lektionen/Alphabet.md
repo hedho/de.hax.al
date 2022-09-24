@@ -1,8 +1,6 @@
 ---
 title: Alphabet / Alfabeti
 ---
-
----
 - Dallimi i shkronjave të gjermanishtes dhe si shqiptohen në shqip.
 
 | DEUTSCH | SHQIP |
