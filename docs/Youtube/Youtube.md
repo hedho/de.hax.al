@@ -1,5 +1,5 @@
 ---
-title: Youtube full movieof A1
+title: Youtube full movie of A1
 ---
 Der von der DW bereitgestellte A1-Film für alle, die versuchen, die deutsche Sprache auf einfache Weise zu lernen.
 
