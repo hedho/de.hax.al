@@ -33,13 +33,13 @@ Mbaresat e foljes në kohën e tashme:
 | --- | --- |
 | Singular | Plural |
 | Ich komm<mark>e</mark> | wir komm<mark>en</mark> |
-| du kommst | ihr komm<mark>t</mark> |
+| du komm<mark>st</mark> | ihr komm<mark>t</mark> |
 | (Sie komm<mark>en</mark>) |     |
 | er, sie, es komm<mark>t</mark> | (Sie) komm<mark>en</mark> |
 
 ---
 
-Whoher komm<mark>en</mark> Sie? - Nga vini Ju ?  
+Woher komm<mark>en</mark> Sie? - Nga vini Ju ?  
 Woher komm<mark>st</mark> du ? - Nga vjen ti ?  
 Ich komm<mark>e</mark> aus Kosova. - Unë vijë nga Kosova.  
 Was sprech<mark>en</mark> sie ? - çka flisni Ju ?  
