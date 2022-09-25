@@ -1,5 +1,17 @@
 site_name: Willkommen
+site_description: Deutsche kurs
+site_url: https://de.hax.al
 repo_url: https://github.com/hedho/de.hax.al
+site_author: monaco
+
+static_templates:
+        - sitemap.xml
+
+
+markdown_extensions:
+    toc:
+        permalink: true
+    admonition: {}
 
 theme:
     locale: de
@@ -8,5 +20,6 @@ theme:
     hljs_languages:
         - yaml
         - rust
-extra:
-  generator: false
+plugins:
+  - rss
+  - with-pdf
