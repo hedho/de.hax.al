@@ -10,5 +10,7 @@ Wenn Sie eine bestimmte Idee oder Anfrage haben, senden Sie mir bitte eine E-Mai
 
 Nese keni ndonje kerkese specifike E-mail: [arianit@hax.al](mailto:arianit@hax.al)
 
+Libri [PDF](/pdf/document.pdf)
+[RSS FEED](/feed_rss_created.xml)
 
 ![/img/lang.jpg](/img/lang.jpg)
