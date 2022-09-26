@@ -2,10 +2,10 @@ site_name: Willkommen
 site_description: Deutsche kurs
 site_url: https://de.hax.al
 repo_url: https://github.com/hedho/de.hax.al
-site_author: monaco
+site_author: Arianit KUKAJ
 
-static_templates:
-        - sitemap.xml
+#static_templates:
+#        - sitemap.xml
 
 
 markdown_extensions:
@@ -20,6 +20,8 @@ theme:
     hljs_languages:
         - yaml
         - rust
+
 plugins:
   - rss
   - with-pdf
+  - git-authors
