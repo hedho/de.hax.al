@@ -30,7 +30,7 @@ Hören Sie und sprechen Sie.
 |Gjuha|---|---|---|---|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|---|---|---|
 |Deutsch|A a|B b|C c|D d|E e|F f|G g|H h|I i|J j |
-|Shqip| a |be |ce | de | e | ge | ha | ha | i | jot |
+|Shqip| a |be |ce | de | e | fe | ge | ha | i | jot |
 |Deutsch | Kk | L l | M m | N n | O o | P p | Q q | R r | S s | T t |
 | Shqip | ka | el | em | en | o | pe | ku | er | es | te |
 |Deutsch | U u | V v | W w | X x | Y y | Z z |---|---|---|---|
