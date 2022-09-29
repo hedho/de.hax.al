@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://de.hax.al/</loc>
-         <lastmod>2022-09-28</lastmod>
+         <lastmod>2022-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://de.hax.al/01%20Lektion/1%20Lektion%201/</loc>
-         <lastmod>2022-09-28</lastmod>
+         <lastmod>2022-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://de.hax.al/01%20Lektion/2%20Lektion%202/</loc>
-         <lastmod>2022-09-28</lastmod>
+         <lastmod>2022-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://de.hax.al/01%20Lektion/3%20Alphabet/</loc>
-         <lastmod>2022-09-28</lastmod>
+         <lastmod>2022-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://de.hax.al/01%20Lektion/4%20Lektion%204/</loc>
-         <lastmod>2022-09-28</lastmod>
+         <lastmod>2022-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://de.hax.al/01%20Lektion/5%20Lektion%205/</loc>
-         <lastmod>2022-09-28</lastmod>
+         <lastmod>2022-09-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://de.hax.al/01%20Lektion/6%20Lektion%206/</loc>
+         <lastmod>2022-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://de.hax.al/01%20Lektion/6%20sien/</loc>
-         <lastmod>2022-09-28</lastmod>
+         <lastmod>2022-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://de.hax.al/02%20H%C3%B6rbeispiele/4%20H%C3%B6rbeispiele/</loc>
-         <lastmod>2022-09-28</lastmod>
+         <lastmod>2022-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://de.hax.al/03%20Youtube/5%20Youtube/</loc>
-         <lastmod>2022-09-28</lastmod>
+         <lastmod>2022-09-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
