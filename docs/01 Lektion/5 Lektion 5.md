@@ -37,6 +37,5 @@ Përkthimi në shqip:
 | **<mark>Das sind meine</mark>** | **E**ltern. | **<mark>Këta janë</mark>** | prindërit e mi. |
 |                                 | **K**inder. |                            | fëmijët e mi.   |
 
-
 ---
 Credits: Aianit KUKAJ
