@@ -21,7 +21,7 @@ Ich bin <u>ledig.</u></p>
 #### Zahlen und Personalien (Numerat dhe të dhënat personale )
 
 <p>Hören Sie und sprechen sie nach.<br>
-Degjo se si shqiptohen numerat në gjuhë gjermane.</p>
+Dëgjoni dhe përseriteni më pas.</p>
 
 <audio controls>
   <source src="/audio/33 - Track33.mp3" type="audio/mpeg">
