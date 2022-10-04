@@ -7,17 +7,12 @@ Die einfach konjugierten Verbformen Präsens, Präteritum, Imperativ und Konjunk
 Your browser does not support the audio element.
 </audio>
 
-ich **bin**
-
-du **bist**
-
-er **ist**
-
-wir **sind**
-
-ihr **seid**
-
-sie **sind**
+- ich **bin**
+- du **bist**
+- er **ist**
+- wir **sind**
+- ihr **seid**
+- sie **sind**
 
 ## Präteritum
 
