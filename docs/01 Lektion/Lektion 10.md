@@ -31,7 +31,6 @@ banane --> die
 ( Die tregon që është për ginin femrore ) -->
 ( Bananja mbaresa a nënkupton që është e gjinisë femrore)
 ```
-
 ---
 
 - <p><u>Wer</u> ist das ?</p>
