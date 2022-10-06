@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Willkomen / Miresevini on Willkommen</title>
-    <link>https://de.hax.al/</link>
+    <link>https://de.hax.al/public/</link>
     <description>Recent content in Willkomen / Miresevini on Willkommen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://de.hax.al/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://de.hax.al/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lektion</title>
-      <link>https://de.hax.al/01-lektion/</link>
+      <link>https://de.hax.al/public/01-lektion/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://de.hax.al/01-lektion/</guid>
+      <guid>https://de.hax.al/public/01-lektion/</guid>
       <description>Kategoria e leksioneve sipas dates.</description>
     </item>
     <item>
       <title>Hörbeispiele</title>
-      <link>https://de.hax.al/02-h%C3%B6rbeispiele/</link>
+      <link>https://de.hax.al/public/02-h%C3%B6rbeispiele/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://de.hax.al/02-h%C3%B6rbeispiele/</guid>
+      <guid>https://de.hax.al/public/02-h%C3%B6rbeispiele/</guid>
       <description>#Lektion no. 1
 Your browser does not support the audio element. Your browser does not support the audio element. </description>
     </item>
     <item>
       <title>Youtube full movie of A1</title>
-      <link>https://de.hax.al/03-youtube/</link>
+      <link>https://de.hax.al/public/03-youtube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://de.hax.al/03-youtube/</guid>
+      <guid>https://de.hax.al/public/03-youtube/</guid>
       <description>Der von der DW bereitgestellte A1-Film für alle, die versuchen, die deutsche Sprache auf einfache Weise zu lernen.</description>
     </item>
   </channel>

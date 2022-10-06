@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lektion 02 on Willkommen</title>
-    <link>https://de.hax.al/01-lektion/lektion-2/</link>
+    <link>https://de.hax.al/public/01-lektion/lektion-2/</link>
     <description>Recent content in Lektion 02 on Willkommen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://de.hax.al/01-lektion/lektion-2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://de.hax.al/public/01-lektion/lektion-2/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
