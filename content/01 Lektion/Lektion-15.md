@@ -8,7 +8,7 @@ draft: false
 
 - ---
 
-- Heir ist <span style="color:red"><u>ein Balkon.</u></span>
+- Hier ist <span style="color:red"><u>ein Balkon.</u></span>
 
 - <span style="color:red"><u>Der Balkon</u></span> ist gut.
 
