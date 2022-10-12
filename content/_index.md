@@ -9,8 +9,8 @@ Wenn Sie eine bestimmte Idee oder Anfrage haben, senden Sie mir bitte eine E-Mai
 
 Nese keni ndonje kerkese specifike E-mail: [arianit@hax.al](mailto:arianit@hax.al)
 
-- Shiko apo Shkarko librin: ["Schritte International. 1 Kursbuch + Arbeitsbuch"](https://www.docdroid.net/GNgYBlw/schritte-international-1-kursbuch-arbeitsbuch-pdf)
+- Shiko apo Shkarko librin: {{% button href="https://www.docdroid.net/GNgYBlw/schritte-international-1-kursbuch-arbeitsbuch-pdf" %}}“Schritte International. 1 Kursbuch + Arbeitsbuch”{{% /button %}}
 
-Shkarko ose printo Leksionet ne [RSS FEED](/feed_rss_created.xml)
+Shkarko ose printo Leksionet ne {{% button href="/01-lektion/index.xml#feed" %}}RSS FEED{{% /button %}}
 
 ![/img/lang.jpg](/img/lang.jpg)
