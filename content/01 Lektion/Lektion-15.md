@@ -44,7 +44,7 @@ draft: false
 | Deutsch | Shqip         | Deutsch  | Shqip         |
 | ------- | ------------- | -------- | ------------- |
 | neu     | i/e re        | alt      | i/e vjetër    |
-| billing | i/e lirë      | teuer    | i/e shtrenjtë |
+| billig  | i/e lirë      | teuer    | i/e shtrenjtë |
 | grosß   | i/e madhe     | klein    | i/e vogël     |
 | breit   | i/e gjerë     | schmal   | i/e ngushtë   |
 | schön   | i/e bukur     | hässlich | i/e shemtuar  |
@@ -52,11 +52,29 @@ draft: false
 
 - Mein Haus ist groß.
 
-- Mein Auto ist teuer.
+- Mein Auto ist <u>teuer.</u>
 
-- Mein Küche ist neu.
+- Mein Küche ist <u>neu.</u>
 
----
+- ---
+
+- ### nuk - kein/e - nicht
+
+- Das ist <u>kein</u> Apfel.
+
+- Ich habe <u>keine</u> Banane.
+
+- Das ist <u>nicht</u> gut.
+
+- Das Auto ist nicht billig.
+
+- ---
+
+- Definicioni:
+
+- Negacioni <u>kein/keine</u> përdoret gjithëmon në fjali para emrave (fjalët që shenohen me shkronjë të madhe), Ndersa negacioni <u>nicht</u> përdoret gjithëmon në fjali para mbiemrave, përemrave (fjalë që shenohen me shkronjë të vogël.) 
+
+- ---
 
 Credits Arianit KUKAJ
 
