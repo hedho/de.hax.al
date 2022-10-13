@@ -23,7 +23,7 @@ draft: false
 
 - - Was sind das ?
   
-  - Das sint % Stüle.
+  - Das sint % Stühle.
 
 ---
 
