@@ -1,9 +1,6 @@
 ---
-
 title: Lektion 13
-
-date: 2022-10-11
-
+date: 2022-10-10
 ---
 
 - Was kostet ein Apfel ? - Sa kushton një mollë ?

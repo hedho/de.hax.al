@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://de.hax.al/01-lektion/</loc>
-<<<<<<< HEAD
     <lastmod>2022-10-14T10:20:10+02:00</lastmod>
   </url>
   <url>
@@ -16,25 +15,18 @@
   <url>
     <loc>https://de.hax.al/01-lektion/lektion-16/</loc>
     <lastmod>2022-10-13T11:28:47+02:00</lastmod>
-=======
-    <lastmod>2022-10-12T09:44:16+02:00</lastmod>
->>>>>>> f5861d572fac9113816c9f29e0a3a951cc090d2f
   </url>
   <url>
     <loc>https://de.hax.al/01-lektion/lektion-15/</loc>
     <lastmod>2022-10-12T09:44:16+02:00</lastmod>
   </url>
   <url>
-    <loc>https://de.hax.al/</loc>
-    <lastmod>2022-10-12T09:44:16+02:00</lastmod>
+    <loc>https://de.hax.al/01-lektion/lektion-14/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://de.hax.al/01-lektion/lektion-13/</loc>
-    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://de.hax.al/01-lektion/lektion-14/</loc>
-    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://de.hax.al/01-lektion/lektion-12/</loc>
