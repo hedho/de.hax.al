@@ -5,6 +5,7 @@
     <link>https://de.hax.al/01-lektion/</link>
     <description>Recent content in Lektion on Willkommen</description>
     <generator>Hugo -- gohugo.io</generator>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 14 Oct 2022 10:20:10 +0200</lastBuildDate><atom:link href="https://de.hax.al/01-lektion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lektion 17</title>
@@ -26,12 +27,15 @@ Was sind das ?
 Das sint % Stühle.
 Deutsch Shqip schwarz i/e zezë weiß i/e bardhë grau i/e hirët rot i/e kuqe blau i/e kaltërt gelb i/e gjelbërt grün i/e kaftë braun i/e kaftë Këtu mund të dëgjoni se si shqiptohen ngjyrat në gjuhën gjermane!</description>
     </item>
+=======
+    <lastBuildDate>Wed, 12 Oct 2022 09:44:16 +0200</lastBuildDate><atom:link href="https://de.hax.al/01-lektion/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> f5861d572fac9113816c9f29e0a3a951cc090d2f
     <item>
       <title>Lektion 15</title>
       <link>https://de.hax.al/01-lektion/lektion-15/</link>
       <pubDate>Wed, 12 Oct 2022 09:44:16 +0200</pubDate>
       <guid>https://de.hax.al/01-lektion/lektion-15/</guid>
-      <description>der Balkon Hier ist ein Balkon.
+      <description>der Balkon Heir ist ein Balkon.
 Der Balkon ist gut.
 Er ist modern.
 die Küche -
@@ -43,6 +47,19 @@ Hier ist ein Bad.
 Das Bad ist gut.
 Es ist modern.
 der Balkon -&amp;gt; er die Küche -&amp;gt; sie das Bad -&amp;gt; es Deutsch Shqip Deutsch Shqip neu i/e re alt i/e vjetër billig i/e lirë teuer i/e shtrenjtë grosß i/e madhe klein i/e vogël breit i/e gjerë schmal i/e ngushtë schön i/e bukur hässlich i/e shemtuar hell i/e ndritshme dunkel i/e errët Mein Haus ist groß.</description>
+    </item>
+    <item>
+      <title>Lektion 13</title>
+      <link>https://de.hax.al/01-lektion/lektion-13/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://de.hax.al/01-lektion/lektion-13/</guid>
+      <description>Was kostet ein Apfel ? - Sa kushton një mollë ?
+Wie veil kostet ein Apfel ? - Sa kushton një mollë ?
+Ein Apfel kostet 0,10 Eur. - Një mollë kushton 0.10 Eur.
+Was kosten fünf Äpfel ? - Sa kushtojnë pesë molla ?
+Wie veil kosten fünf Äpfel ? - Sa kushtojnë pesë molla ?
+Fünf Äpfel kosten 0.49 Eur. - Pesë molla kushtojnë 0.49 Eur.
+Was kostet ein Kilo Äpfel ?</description>
     </item>
     <item>
       <title>Lektion 14</title>
@@ -62,19 +79,6 @@ das Kinderzimmer - dhoma e fëmijëve.
 di Küche - Kuzhina.
 die Toilette. - tualeti.
 der Flur - Koridori.</description>
-    </item>
-    <item>
-      <title>Lektion 13</title>
-      <link>https://de.hax.al/01-lektion/lektion-13/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://de.hax.al/01-lektion/lektion-13/</guid>
-      <description>Was kostet ein Apfel ? - Sa kushton një mollë ?
-Wie veil kostet ein Apfel ? - Sa kushton një mollë ?
-Ein Apfel kostet 0,10 Eur. - Një mollë kushton 0.10 Eur.
-Was kosten fünf Äpfel ? - Sa kushtojnë pesë molla ?
-Wie veil kosten fünf Äpfel ? - Sa kushtojnë pesë molla ?
-Fünf Äpfel kosten 0.49 Eur. - Pesë molla kushtojnë 0.49 Eur.
-Was kostet ein Kilo Äpfel ?</description>
     </item>
     <item>
       <title>Lektion 12</title>
