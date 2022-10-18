@@ -69,29 +69,14 @@ draft: false
 - Das Auto ist nicht billig.
 
 - ---
+
 {{% notice info %}}
+
 - Definicioni:
 
 - Negacioni <u>kein/keine</u> përdoret gjithëmon në fjali para emrave (fjalët që shenohen me shkronjë të madhe), Ndersa negacioni <u>nicht</u> përdoret gjithëmon në fjali para mbiemrave, përemrave (fjalë që shenohen me shkronjë të vogël.) 
-{{% /notice %}}
+  {{% /notice %}}
+
 - ---
 
 Credits Arianit KUKAJ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

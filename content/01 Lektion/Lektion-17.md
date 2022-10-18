@@ -8,9 +8,10 @@ draft: false
 - Was kostet die Miete ? - Sa kushton qeraja ?
 - Die Miete kostet 650 Euro. - Qeraj kushton 650 Euro.
 
-|Deutsch|Shqip|
-|-|-|
-|Ich suche eine Wohnung|Unë kërkojë për një banesë.|
+| Deutsch                | Shqip                       |
+| ---------------------- | --------------------------- |
+| Ich suche eine Wohnung | Unë kërkojë për një banesë. |
 
 ---
+
 Credits: Arianit KUKAJ
