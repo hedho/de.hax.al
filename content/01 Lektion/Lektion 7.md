@@ -4,8 +4,8 @@ date: 2022-06-17
 ---
 
 #### <p> Das ist meine familie. - Kjo është familja ime.
-<mark>**ist**</mark> dhe mein<mark>**e**</mark> tregojnë që <mark>**ist**</mark> është për gjininë femrore, mein<mark>**e**</mark> paraqet që është shumës sepse perfundon me <mark>**e**</mark><br>
 
+<mark>**ist**</mark> dhe mein<mark>**e**</mark> tregojnë që <mark>**ist**</mark> është për gjininë femrore, mein<mark>**e**</mark> paraqet që është shumës sepse perfundon me <mark>**e**</mark><br>
 
 Ledig - beqar/e<br>
 (verlobt - i/e fejuar)<br>
@@ -55,4 +55,5 @@ Your browser does not support the audio element.
 | 20  | zwanzig  |
 
 ---
+
 Credits: Arianit KUKAJ

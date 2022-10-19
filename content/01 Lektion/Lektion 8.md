@@ -5,7 +5,7 @@ date: 2022-06-18
 #### <center>bahen - kam</center>
 
 - Singular: Plural:
-  
+
 - Ich habe ------- wir haben
 - du hast --------- Ihr habt
 - (sie haben)
