@@ -1,17 +1,17 @@
 [
   {
-    "content": "Kategoria e leksioneve sipas dates.\nLektion 20\nLektion 19\nLektion 18\nLektion 17\nLektion 16\nLektion 15\nLektion 14\nLektion 13\nLektion 12\nLektion 11\nLektion 10\nLektion 09\nLektion 08\nLektion 07\nsien 06\nLektion 06\nLektion 05\nLektion 04\nAlphabet / Alfabeti 03\nLektion 02\nLektion 01\n",
+    "content": "Kategoria e leksioneve sipas dates.\nLektion 21\nLektion 20\nLektion 19\nLektion 18\nLektion 17\nLektion 16\nLektion 15\nLektion 14\nLektion 13\nLektion 12\nLektion 11\nLektion 10\nLektion 09\nLektion 08\nLektion 07\nsien 06\nLektion 06\nLektion 05\nLektion 04\nAlphabet / Alfabeti 03\nLektion 02\nLektion 01\n",
     "description": "",
     "tags": null,
     "title": "Lektion",
     "uri": "/01-lektion/"
   },
   {
-    "content": "zeit haen graph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e habe D( 3 ) --\u003e C( ziet. ) graph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e habe D( 3 ) --\u003e C( keine zeit. ) graph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e habe D( 3 ) --\u003e C( am Samstag ) F(4) --\u003e G(kene zeit.) Geburstag haben - me pasë ditëlindjen.\nIch habe Geburstag.\ngraph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e habe D( 3 ) --\u003e C( am Samstag ) F(4) --\u003e G(Geburstag.) Party machen - me bo parti (aheng)\nIch mache eine Party.\nam Morgen - në mengjes\nam Vormittag - paradite\nam Nachmittag - pasëdite\nam Abend - në mbrëmje\nin der Nacht - Natën\nPizza essen - me ngrënë pica.\nIch esse gern Pizza.\nins Kino gehen - me shku në kinema.\nIch gehe am Wochenede ins Kino.\nMusik hören - me dëgju muzikë.\nIch höre am Abend Musik.\nspazieren gehen - me dal me shetitë.\nIch gehe heute spazieren.\nCredits: Arianit KUKAJ\n",
+    "content": " Wann stehst du auf ?\nIch stehe uum sechs Uhr Auf. Wann fürstückst du ?\nIch fürstückst yn sieben Uhr. Wann gehst du zum Deutsch Kurs?\nIch gehe um act Uhr. zum Deutsch Kurs. Von wann bis wan bist du im Deutsch Kurs?\nIch bin von acht bis zehn Uhr im Deutsch Kurs. Wann Gehst du nach Hause ?\nIch gehe um elf Uhr nach Hause. wann macst du Hausaufgaben ?\nIch mache um zwölf Uhr Hausaufgaben. Wann kaufst du ein ?\nIch kaufe um ein (13) Uhr ein. Wann siehst du fern ?\nIch sehe um drei (13) Uhr fern. Wann gehst du ins Bett ?\nIch gehe um zehn (22) Uhr ins Bett. Ich höre am Abend Musik.\nAm Abend höre ich Musik.\nIch mache um 11 Uhr Hausaufgaben.\nUm elf Uhr mache ich Hausaufgaben.\nCredits: Arianit KUKAJ\n",
     "description": "",
     "tags": null,
-    "title": "Lektion 20",
-    "uri": "/01-lektion/lektion-20/"
+    "title": "Lektion 21",
+    "uri": "/01-lektion/lektion-21/"
   },
   {
     "content": "Diese Daten werden von Ihrer Hochschule bereitgestellt. In meinem Namen möchte ich, dass jeder so viel Wissen wie möglich daraus holt, PS A.K.\nWenn Sie eine bestimmte Idee oder Anfrage haben, senden Sie mir bitte eine E-Mail an arianit@hax.al\nNese keni ndonje kerkese specifike E-mail: arianit@hax.al\nShiko apo Shkarko librin: “Schritte International. 1 Kursbuch + Arbeitsbuch” Kjo webfaqe eshte e krijuar dhe mirembajtur nga une personalisht me mjete monetare vetanake por nese ju deshironi qe te kontriboni ndonje kaffe atehere jeni me shume se te mireseardhur, por se nuk eshte e detyrueshme :), ne rast se ju vleresoni shpenzimet personale, kohen dhe dijen per kete webfaqe atehere Danke!\nBuy me a coffee Shkarko ose printo Leksionet ne RSS FEED ",
@@ -19,6 +19,13 @@
     "tags": null,
     "title": "Willkomen / Miresevini",
     "uri": "/"
+  },
+  {
+    "content": "zeit haen graph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e habe D( 3 ) --\u003e C( ziet. ) graph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e habe D( 3 ) --\u003e C( keine zeit. ) graph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e habe D( 3 ) --\u003e C( am Samstag ) F(4) --\u003e G(kene zeit.) Geburstag haben - me pasë ditëlindjen.\nIch habe Geburstag.\ngraph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e habe D( 3 ) --\u003e C( am Samstag ) F(4) --\u003e G(Geburstag.) Party machen - me bo parti (aheng)\nIch mache eine Party.\nam Morgen - në mengjes\nam Vormittag - paradite\nam Nachmittag - pasëdite\nam Abend - në mbrëmje\nin der Nacht - Natën\nPizza essen - me ngrënë pica.\nIch esse gern Pizza.\nins Kino gehen - me shku në kinema.\nIch gehe am Wochenede ins Kino.\nMusik hören - me dëgju muzikë.\nIch höre am Abend Musik.\nspazieren gehen - me dal me shetitë.\nIch gehe heute spazieren.\nCredits: Arianit KUKAJ\n",
+    "description": "",
+    "tags": null,
+    "title": "Lektion 20",
+    "uri": "/01-lektion/lektion-20/"
   },
   {
     "content": "machen - bëj Ich mache sport. - Unë bëjë sport.\nIch mache Hausaufgaben. - Unë bëjë detyrat e shtepisë.\narbeiten - punojë\nIch arbeite nicht. Unë nuk punojë.\nKochen - gatuaj\nIch koche. - Unë gatuaj.\nIch koche heute. - Unë gatuaj sot.\nMontag - E henë\nDienstag - E martë\nMitwoche - E merkurë\nDonnerstag - E enjtë\nFreistag - E premtë\nSamstag - E shtunë\nSonnstag - E diel\nSamstag - E shtunë\nIch arbete.\nIch arbete am Samstag.\ngraph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e arbeite D(3) --\u003e C(am Samstag.) Ich arbeite am Samstag in Drenas. graph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e arbeite D(3) --\u003e C(am Samstag in Drenas.) von … bis … nga … deri\nIch arebite von Montag bis Freitag.\ngraph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e arbeite D(3) --\u003e C(von Montag bis Freitag.) 12 Uhr. - në orën 12.\nam 12 Uhr - në orën 12.\nIch koche.\nIch koche am Samstag um 12 Uhr.\ngraph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e koche D(3) --\u003e C(am Samstag um 12 Uhr.) Ich arbeite von Montag bis Freitag von acht bis zwölf Uhr. graph TD A( 1 ) --\u003e Ich B( 2 ) --\u003e arbeite D(3) --\u003e C(von Montag bis Freitag von acht bis zwölf Uhr.) Das Wochenende - fundjava\nam Wochenede - në fundjavë\nCredits: Arianit KUKAJ\n",
