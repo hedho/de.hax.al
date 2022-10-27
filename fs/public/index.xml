@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willkomen / Miresevini on Willkommen</title>
+    <link>https://de.hax.al/</link>
+    <description>Recent content in Willkomen / Miresevini on Willkommen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 Oct 2022 14:31:02 +0200</lastBuildDate><atom:link href="https://de.hax.al/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lektion</title>
+      <link>https://de.hax.al/01-lektion/</link>
+      <pubDate>Wed, 19 Oct 2022 14:31:02 +0200</pubDate>
+      <guid>https://de.hax.al/01-lektion/</guid>
+      <description>Kategoria e leksioneve sipas dates.
+Lektion 19
+Lektion 18
+Lektion 17
+Lektion 16
+Lektion 15
+Lektion 14
+Lektion 13
+Lektion 12
+Lektion 11
+Lektion 10
+Lektion 09
+Lektion 08
+Lektion 07
+sien 06
+Lektion 06
+Lektion 05
+Lektion 04
+Alphabet / Alfabeti 03
+Lektion 02
+Lektion 01</description>
+    </item>
+    <item>
+      <title>Hörbeispiele</title>
+      <link>https://de.hax.al/02-h%C3%B6rbeispiele/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://de.hax.al/02-h%C3%B6rbeispiele/</guid>
+      <description>#Lektion no. 1
+Your browser does not support the audio element. Your browser does not support the audio element. </description>
+    </item>
+    <item>
+      <title>Youtube full movie of A1</title>
+      <link>https://de.hax.al/03-youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://de.hax.al/03-youtube/</guid>
+      <description>Der von der DW bereitgestellte A1-Film für alle, die versuchen, die deutsche Sprache auf einfache Weise zu lernen.</description>
+    </item>
+  </channel>
+</rss>
